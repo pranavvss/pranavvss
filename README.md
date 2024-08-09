@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Pranav, A Machine Learning enthusiast. a</h3>
+<h3 align="center">Hi, I'm Pranav, A Machine Learning enthusiast.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=praanavss&label=Profile%20views&color=0e75b6&style=flat" alt="praanavss" /> </p>
 
