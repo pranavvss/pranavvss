@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning Pytorch.
 
-- 📫 How to reach me @pranav123work@icloud.com
+- 📫 How to reach me @pranav3457work@icloud.com
 
-<h3 align="left">Connect with me: pranav123work@icloud.com </h3>
+<h3 align="left">Connect with me: pranav3457work@icloud.com </h3>
 <p align="left">
 </p>
 
